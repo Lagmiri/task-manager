@@ -1,0 +1,5 @@
+.idea/*
+META-INF/*
+out/*
+task-manager.iml
+**/META-INF
